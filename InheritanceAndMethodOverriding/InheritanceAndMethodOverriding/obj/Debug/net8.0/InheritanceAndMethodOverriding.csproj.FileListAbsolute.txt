@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverriding.exe
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverriding.deps.json
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverriding.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverriding.dll
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\bin\Debug\net8.0\InheritanceAndMethodOverriding.pdb
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverriding.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverriding.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverriding.dll
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\refint\InheritanceAndMethodOverriding.dll
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverriding.pdb
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\InheritanceAndMethodOverriding.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\delly\InheritanceAndMethodOverriding\InheritanceAndMethodOverriding\obj\Debug\net8.0\ref\InheritanceAndMethodOverriding.dll

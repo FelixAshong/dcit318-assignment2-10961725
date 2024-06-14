@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.exe
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.deps.json
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.dll
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.pdb
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.dll
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\refint\AbstractClassesAndMethods.dll
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.pdb
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\delly\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net8.0\ref\AbstractClassesAndMethods.dll
